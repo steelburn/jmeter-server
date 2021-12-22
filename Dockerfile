@@ -8,7 +8,6 @@ ENV JMETER_BIN ${JMETER_HOME}/bin
 ENV JMETER_DOWNLOAD_URL https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-${JMETER_VERSION}.tgz
 ARG TZ="Asia/Kuala_Lumpur"
 ENV TZ ${TZ}
-ENV IP 0.0.0.0
 ENV RMI_PORT 1099
 
 # Install extra packages
