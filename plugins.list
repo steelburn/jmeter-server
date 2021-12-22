@@ -1,0 +1,29 @@
+# We'll skip any line with # at the beginning of the line
+https://jmeter-plugins.org/files/packages/jpgc-graphs-basic-2.0.zip
+https://jmeter-plugins.org/files/packages/jpgc-graphs-additional-2.0.zip
+https://jmeter-plugins.org/files/packages/jpgc-graphs-composite-2.0.zip
+https://jmeter-plugins.org/files/packages/jpgc-graphs-dist-2.0.zip
+https://jmeter-plugins.org/files/packages/jpgc-graphs-vs-2.0.zip
+https://jmeter-plugins.org/files/packages/jpgc-casutg-2.10.zip
+https://jmeter-plugins.org/files/packages/jpgc-functions-2.1.zip
+https://jmeter-plugins.org/files/packages/jmeter-grpc-request-1.1.1.zip
+https://jmeter-plugins.org/files/packages/mqtt-xmeter-2.0.2.zip
+https://jmeter-plugins.org/files/packages/jpgc-prmctl-0.4.zip
+https://jmeter-plugins.org/files/packages/mqtt-sampler-0.0.1-SNAPSHOT.zip
+https://jmeter-plugins.org/files/packages/custom-soap-1.3.3.zip
+https://jmeter-plugins.org/files/packages/jpgc-udp-0.4.zip
+https://jmeter-plugins.org/files/packages/bzm-parallel-0.11.zip
+https://jmeter-plugins.org/files/packages/jpgc-dbmon-0.1.zip
+https://jmeter-plugins.org/files/packages/jpgc-dummy-0.4.zip
+https://jmeter-plugins.org/files/packages/websocket-samplers-1.2.8.zip
+https://jmeter-plugins.org/files/packages/jpgc-jmxmon-0.3.zip
+https://jmeter-plugins.org/files/packages/jpgc-webdriver-3.3.zip
+https://jmeter-plugins.org/files/packages/jpgc-filterresults-2.2.zip
+https://jmeter-plugins.org/files/packages/jpgc-ffw-2.0.zip
+https://jmeter-plugins.org/files/packages/tilln-formman-1.0.zip
+https://jmeter-plugins.org/files/packages/jpgc-fifo-0.2.zip
+https://jmeter-plugins.org/files/packages/jpgc-mergeresults-2.1.zip
+https://jmeter-plugins.org/files/packages/bzm-random-csv-0.8.zip
+https://jmeter-plugins.org/files/packages/jpgc-synthesis-2.2.zip
+https://jmeter-plugins.org/files/packages/jpgc-tst-2.5.zip
+# End
