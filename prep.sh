@@ -3,9 +3,6 @@
 # Ensure we have all our package requirements
 sudo apt install -y wget unzip 
 
-# Clone justb4/jmeter container repository
-git clone https://github.com/justb4/docker-jmeter.git
-
 mkdir -p temp
 mkdir -p plugins
 
